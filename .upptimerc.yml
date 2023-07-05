@@ -17,6 +17,8 @@ sites:
     url: https://developer.fyralabs.com
   - name: Wiki
     url: https://wiki.fyralabs.com
+  - name: Weblate
+    url: https://weblate.fyralabs.com
   - name: Terra Homepage
     url: https://terra.fyralabs.com
   - name: Package Repositories
