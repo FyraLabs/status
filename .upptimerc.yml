@@ -2,6 +2,10 @@
 owner: FyraLabs # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+assignees:
+  - korewaChino
+  - lleyton
+
 sites:
   - name: Homepage
     url: https://fyralabs.com
@@ -23,6 +27,8 @@ sites:
     url: https://subatomic.fyralabs.com/heartbeat
   - name: Madoguchi
     url: https://madoguchi.fyralabs.com/health
+  - name: Fake broken
+    url: https://nyanaynya.owo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,7 +38,7 @@ status-website:
   logoUrl: https://fyralabs.com/logo.svg
   favicon: https://fyralabs.com/logo.png
   faviconSvg: https://fyralabs.com/logo.svg
-  name: Fyra Labs
+  name: Fyra Labs Status
   customHeadHtml: <script defer data-domain="status.fyralabs.com" src="https://anyawytics.fyralabs.com/js/script.js"></script>
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
