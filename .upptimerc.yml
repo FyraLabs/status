@@ -27,8 +27,6 @@ sites:
     url: https://subatomic.fyralabs.com/heartbeat
   - name: Madoguchi
     url: https://madoguchi.fyralabs.com/health
-  - name: Fake broken
-    url: https://nyanaynya.owo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
