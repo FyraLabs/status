@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fyralabs.com.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "97.62%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
     "time": 1033,
     "timeDay": 1033,
     "timeWeek": 1033,
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2023-07-06": 19
+      "2023-07-06": 28
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fyralabs.com.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "92.90%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "92.90%",
-    "uptimeYear": "92.90%",
+    "uptime": "92.19%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "92.19%",
+    "uptimeYear": "92.19%",
     "time": 898,
     "timeDay": 898,
     "timeWeek": 898,
     "timeMonth": 898,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-07-06": 52,
+      "2023-07-06": 61,
       "2023-07-05": 32
     }
   },
@@ -135,19 +135,19 @@
     "url": "https://repos.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/repos.fyralabs.com.ico",
     "slug": "package-repositories",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2609,
-    "timeDay": 2609,
-    "timeWeek": 2609,
-    "timeMonth": 2609,
-    "timeYear": 2609,
+    "status": "up",
+    "uptime": "99.23%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
+    "time": 5518,
+    "timeDay": 5518,
+    "timeWeek": 5518,
+    "timeMonth": 5518,
+    "timeYear": 5518,
     "dailyMinutesDown": {
-      "2023-07-06": 0
+      "2023-07-06": 9
     }
   },
   {
