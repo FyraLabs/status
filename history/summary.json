@@ -181,19 +181,19 @@
     "url": "https://subatomic.fyralabs.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/subatomic.fyralabs.com.ico",
     "slug": "subatomic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 517,
-    "timeWeek": 480,
-    "timeMonth": 451,
-    "timeYear": 451,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 458,
+    "timeDay": 527,
+    "timeWeek": 488,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2023-07-15": 0
+      "2023-07-15": 15
     }
   },
   {
@@ -201,19 +201,19 @@
     "url": "https://madoguchi.fyralabs.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/madoguchi.fyralabs.com.ico",
     "slug": "madoguchi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 572,
-    "timeWeek": 531,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 518,
+    "timeDay": 539,
+    "timeWeek": 524,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-07-15": 0
+      "2023-07-15": 15
     }
   }
 ]
