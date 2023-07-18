@@ -22,18 +22,20 @@
     "url": "https://auth.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.fyralabs.com.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1504,
-    "timeDay": 1207,
-    "timeWeek": 850,
-    "timeMonth": 1504,
-    "timeYear": 1504,
-    "dailyMinutesDown": {}
+    "time": 1464,
+    "timeDay": 962,
+    "timeWeek": 833,
+    "timeMonth": 1464,
+    "timeYear": 1464,
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "Blog",
