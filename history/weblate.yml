@@ -1,7 +1,7 @@
 url: https://weblate.fyralabs.com
-status: up
-code: 200
-responseTime: 673
-lastUpdated: 2023-12-10T23:11:39.639Z
+status: down
+code: 503
+responseTime: 519
+lastUpdated: 2023-12-11T10:31:44.282Z
 startTime: 2023-07-05T19:04:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
