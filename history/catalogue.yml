@@ -1,7 +1,7 @@
 url: https://flatpak.fyralabs.com
-status: down
-code: 503
-responseTime: 848
-lastUpdated: 2024-01-18T02:20:14.502Z
+status: up
+code: 200
+responseTime: 491
+lastUpdated: 2024-01-18T02:40:13.750Z
 startTime: 2023-07-05T14:09:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
