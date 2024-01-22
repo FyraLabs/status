@@ -1,7 +1,7 @@
 url: https://subatomic.fyralabs.com/heartbeat
-status: up
-code: 200
-responseTime: 461
-lastUpdated: 2024-01-21T23:12:09.317Z
+status: down
+code: 503
+responseTime: 1304
+lastUpdated: 2024-01-22T00:58:22.559Z
 startTime: 2023-07-05T14:09:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
