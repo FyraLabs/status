@@ -23,8 +23,6 @@ sites:
     url: https://terra.fyralabs.com
   - name: Package Repositories
     url: https://repos.fyralabs.com
-  - name: Catalogue
-    url: https://flatpak.fyralabs.com
   - name: Subatomic
     url: https://subatomic.fyralabs.com/heartbeat
   - name: Madoguchi
