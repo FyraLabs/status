@@ -140,9 +140,9 @@
     "url": "https://repos.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/repos.fyralabs.com.ico",
     "slug": "package-repositories",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
@@ -152,6 +152,7 @@
     "timeMonth": 507,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-27": 133
     }
   },
@@ -201,12 +202,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 173,
     "timeDay": 246,
-    "timeWeek": 199,
+    "timeWeek": 195,
     "timeMonth": 179,
     "timeYear": 173,
     "dailyMinutesDown": {
