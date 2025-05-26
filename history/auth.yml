@@ -1,7 +1,7 @@
 url: https://auth.fyralabs.com
-status: down
-code: 503
-responseTime: 1651
-lastUpdated: 2025-05-26T17:56:26.560Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2025-05-26T18:32:43.911Z
 startTime: 2023-07-05T14:08:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
