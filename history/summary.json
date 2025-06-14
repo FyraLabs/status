@@ -42,9 +42,9 @@
     "url": "https://blog.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.fyralabs.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 480,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2025-06-14": 0,
       "2025-05-20": 10
     }
   },
@@ -105,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.fyralabs.com.ico",
     "slug": "weblate",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -191,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/madoguchi.fyralabs.com.ico",
     "slug": "madoguchi",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
