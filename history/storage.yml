@@ -1,7 +1,7 @@
 url: https://storage.fyralabs.com/minio/health/live
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-03T04:59:46.581Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2025-09-03T05:39:49.394Z
 startTime: 2024-07-04T01:42:37.631Z
 generator: Upptime <https://github.com/upptime/upptime>
