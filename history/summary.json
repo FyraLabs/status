@@ -230,15 +230,15 @@
     "url": "https://storage.fyralabs.com/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/storage.fyralabs.com.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "79.19%",
-    "uptimeWeek": "86.90%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "87.01%",
     "uptimeMonth": "95.43%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 359,
-    "timeDay": 227,
-    "timeWeek": 256,
+    "timeDay": 236,
+    "timeWeek": 253,
     "timeMonth": 347,
     "timeYear": 360,
     "dailyMinutesDown": {
@@ -300,7 +300,7 @@
       "2025-05-25": 12,
       "2025-05-24": 29,
       "2025-05-22": 20,
-      "2025-05-21": 43
+      "2025-05-21": 15
     }
   }
 ]
