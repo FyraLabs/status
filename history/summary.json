@@ -191,20 +191,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/subatomic.fyralabs.com.ico",
     "slug": "subatomic",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 413,
     "timeDay": 466,
     "timeWeek": 413,
     "timeMonth": 429,
     "timeYear": 449,
-    "dailyMinutesDown": {
-      "2025-06-14": 11,
-      "2025-05-26": 36
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Madoguchi",
@@ -232,32 +229,17 @@
     "url": "https://storage.fyralabs.com/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/storage.fyralabs.com.ico",
     "slug": "storage",
-    "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "72.37%",
-    "uptimeWeek": "80.22%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 187,
-    "timeWeek": 229,
+    "timeDay": 195,
+    "timeWeek": 230,
     "timeMonth": 278,
     "timeYear": 318,
-    "dailyMinutesDown": {
-      "2025-09-17": 274,
-      "2025-09-16": 337,
-      "2025-09-15": 211,
-      "2025-09-14": 442,
-      "2025-09-13": 426,
-      "2025-09-12": 222,
-      "2025-09-11": 84,
-      "2025-09-09": 64,
-      "2025-09-08": 271,
-      "2025-09-07": 141,
-      "2025-09-06": 231,
-      "2025-09-05": 327,
-      "2025-09-04": 169,
-      "2025-09-03": 189
-    }
+    "dailyMinutesDown": {}
   }
 ]
