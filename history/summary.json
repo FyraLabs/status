@@ -196,12 +196,12 @@
     "slug": "subatomic",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 417,
-    "timeDay": 478,
+    "timeDay": 444,
     "timeWeek": 451,
     "timeMonth": 455,
     "timeYear": 453,
@@ -237,11 +237,11 @@
     "url": "https://storage.fyralabs.com/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/storage.fyralabs.com.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "73.17%",
-    "uptimeWeek": "86.91%",
-    "uptimeMonth": "91.67%",
+    "uptimeDay": "73.14%",
+    "uptimeWeek": "86.90%",
+    "uptimeMonth": "91.70%",
     "uptimeYear": "99.31%",
     "time": 303,
     "timeDay": 407,
@@ -260,7 +260,7 @@
       "2025-09-18": 458,
       "2025-09-17": 497,
       "2025-09-16": 337,
-      "2025-09-15": 53
+      "2025-09-15": 39
     }
   }
 ]
