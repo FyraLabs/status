@@ -23,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.fyralabs.com.ico",
     "slug": "auth",
     "status": "down",
-    "uptime": "98.98%",
+    "uptime": "98.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.70%",
-    "uptimeMonth": "89.58%",
+    "uptimeWeek": "54.32%",
+    "uptimeMonth": "89.49%",
     "uptimeYear": "99.11%",
     "time": 874,
     "timeDay": 721,
@@ -34,7 +34,7 @@
     "timeMonth": 1228,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-10-03": 584,
+      "2025-10-03": 622,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 993,
@@ -251,11 +251,11 @@
     "url": "https://storage.fyralabs.com/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/storage.fyralabs.com.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "64.12%",
+    "uptimeDay": "64.09%",
     "uptimeWeek": "68.69%",
-    "uptimeMonth": "91.44%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "99.29%",
     "time": 308,
     "timeDay": 251,
@@ -272,7 +272,7 @@
       "2025-09-27": 460,
       "2025-09-26": 167,
       "2025-09-23": 313,
-      "2025-09-22": 282
+      "2025-09-22": 266
     }
   }
 ]
