@@ -26,7 +26,7 @@
     "uptime": "98.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.97%",
+    "uptimeMonth": "67.94%",
     "uptimeYear": "97.31%",
     "time": 879,
     "timeDay": 803,
@@ -34,7 +34,7 @@
     "timeMonth": 1252,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-10-09": 1407,
+      "2025-10-09": 1420,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -100,12 +100,12 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "98.70%",
-    "uptimeWeek": "99.12%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.93%",
     "time": 708,
     "timeDay": 584,
-    "timeWeek": 525,
+    "timeWeek": 533,
     "timeMonth": 543,
     "timeYear": 827,
     "dailyMinutesDown": {
@@ -266,12 +266,12 @@
     "url": "https://storage.fyralabs.com/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/storage.fyralabs.com.ico",
     "slug": "storage",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "41.39%",
-    "uptimeWeek": "59.07%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "42.25%",
+    "uptimeWeek": "59.48%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "99.22%",
     "time": 314,
     "timeDay": 919,
     "timeWeek": 335,
@@ -284,7 +284,7 @@
       "2025-10-06": 657,
       "2025-10-05": 430,
       "2025-10-04": 808,
-      "2025-10-03": 411
+      "2025-10-03": 368
     }
   }
 ]
