@@ -1,7 +1,7 @@
 url: https://madoguchi.fyralabs.com/health
-status: down
-code: 404
-responseTime: 521
-lastUpdated: 2025-10-09T16:35:36.452Z
+status: up
+code: 200
+responseTime: 870
+lastUpdated: 2025-10-09T16:54:25.785Z
 startTime: 2023-07-05T14:09:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
