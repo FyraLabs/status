@@ -29,6 +29,8 @@ sites:
     url: https://madoguchi.fyralabs.com/health
   - name: Storage
     url: https://storage.fyralabs.com/minio/health/live
+  - name: Tetsudou
+    url: https://tetsudou.fyralabs.com/metalink?repo=terrarawhide
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
