@@ -9,8 +9,6 @@ assignees:
 sites:
   - name: Homepage
     url: https://fyralabs.com
-  - name: Auth
-    url: https://auth.fyralabs.com
   - name: Blog
     url: https://blog.fyralabs.com
   - name: Devdocs
