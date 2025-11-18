@@ -4,19 +4,19 @@
     "url": "https://fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/fyralabs.com.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "84.20%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
     "time": 234,
-    "timeDay": 3377,
-    "timeWeek": 1779,
-    "timeMonth": 712,
-    "timeYear": 298,
+    "timeDay": 2918,
+    "timeWeek": 1654,
+    "timeMonth": 697,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2025-11-18": 205
+      "2025-11-18": 228
     }
   },
   {
