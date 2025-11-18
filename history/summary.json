@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fyralabs.com.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 184,
     "timeWeek": 181,
     "timeMonth": 210,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 48
     }
   },
   {
@@ -48,17 +48,17 @@
     "url": "https://developer.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.fyralabs.com.ico",
     "slug": "devdocs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.87%",
+    "uptimeDay": "99.85%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 129,
-    "timeWeek": 187,
-    "timeMonth": 196,
-    "timeYear": 280,
+    "timeDay": 137,
+    "timeWeek": 185,
+    "timeMonth": 195,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2025-11-18": 2
     }
@@ -150,18 +150,20 @@
     "url": "https://terra.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/terra.fyralabs.com.ico",
     "slug": "terra-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 149,
-    "timeWeek": 209,
-    "timeMonth": 215,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "timeDay": 113,
+    "timeWeek": 193,
+    "timeMonth": 211,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Package Repositories",
@@ -284,18 +286,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tetsudou.fyralabs.com.ico",
     "slug": "tetsudou",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.75%",
+    "uptimeDay": "96.65%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 630,
     "timeDay": 254,
     "timeWeek": 511,
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-11-18": 1,
+      "2025-11-18": 48,
       "2025-10-26": 34
     }
   }
