@@ -4,18 +4,20 @@
     "url": "https://fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/fyralabs.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 162,
-    "timeWeek": 177,
+    "time": 186,
+    "timeDay": 184,
+    "timeWeek": 181,
     "timeMonth": 210,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Blog",
@@ -46,19 +48,19 @@
     "url": "https://developer.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.fyralabs.com.ico",
     "slug": "devdocs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 95,
-    "timeWeek": 186,
+    "timeDay": 129,
+    "timeWeek": 187,
     "timeMonth": 196,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 2
     }
   },
   {
@@ -281,18 +283,19 @@
     "url": "https://tetsudou.fyralabs.com/metalink?repo=terrarawhide",
     "icon": "https://icons.duckduckgo.com/ip3/tetsudou.fyralabs.com.ico",
     "slug": "tetsudou",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 648,
-    "timeDay": 334,
-    "timeWeek": 560,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "time": 630,
+    "timeDay": 254,
+    "timeWeek": 511,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
+      "2025-11-18": 1,
       "2025-10-26": 34
     }
   }
