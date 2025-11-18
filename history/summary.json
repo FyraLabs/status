@@ -6,17 +6,17 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "85.81%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.96%",
     "time": 186,
-    "timeDay": 177,
-    "timeWeek": 179,
-    "timeMonth": 209,
+    "timeDay": 201,
+    "timeWeek": 189,
+    "timeMonth": 210,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-11-18": 172
+      "2025-11-18": 205
     }
   },
   {
@@ -285,19 +285,19 @@
     "url": "https://tetsudou.fyralabs.com/metalink?repo=terrarawhide",
     "icon": "https://icons.duckduckgo.com/ip3/tetsudou.fyralabs.com.ico",
     "slug": "tetsudou",
-    "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 618,
-    "timeDay": 353,
-    "timeWeek": 500,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "85.80%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 607,
+    "timeDay": 338,
+    "timeWeek": 479,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {
-      "2025-11-18": 173,
+      "2025-11-18": 205,
       "2025-10-26": 34
     }
   }
