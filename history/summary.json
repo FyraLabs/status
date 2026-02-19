@@ -13,7 +13,7 @@
     "time": 224,
     "timeDay": 113,
     "timeWeek": 150,
-    "timeMonth": 203,
+    "timeMonth": 204,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2025-11-18": 228
@@ -33,7 +33,7 @@
     "time": 556,
     "timeDay": 1040,
     "timeWeek": 889,
-    "timeMonth": 905,
+    "timeMonth": 907,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2026-01-01": 70,
@@ -61,7 +61,7 @@
     "time": 215,
     "timeDay": 103,
     "timeWeek": 138,
-    "timeMonth": 188,
+    "timeMonth": 187,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-11-18": 126
@@ -146,7 +146,7 @@
     "time": 664,
     "timeDay": 692,
     "timeWeek": 686,
-    "timeMonth": 705,
+    "timeMonth": 711,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-01-01": 26,
@@ -184,7 +184,7 @@
     "time": 192,
     "timeDay": 107,
     "timeWeek": 155,
-    "timeMonth": 177,
+    "timeMonth": 176,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2026-02-12": 70,
@@ -205,7 +205,7 @@
     "time": 574,
     "timeDay": 453,
     "timeWeek": 508,
-    "timeMonth": 545,
+    "timeMonth": 546,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2026-02-19": 57,
@@ -243,7 +243,7 @@
     "time": 419,
     "timeDay": 503,
     "timeWeek": 408,
-    "timeMonth": 424,
+    "timeMonth": 425,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-10-26": 14,
@@ -270,7 +270,7 @@
     "time": 559,
     "timeDay": 518,
     "timeWeek": 409,
-    "timeMonth": 428,
+    "timeMonth": 427,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2025-12-31": 13,
@@ -286,19 +286,19 @@
     "url": "https://storage.fyralabs.com/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/storage.fyralabs.com.ico",
     "slug": "storage",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "85.42%",
-    "uptimeWeek": "95.47%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "95.46%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "98.28%",
     "time": 312,
     "timeDay": 193,
     "timeWeek": 392,
-    "timeMonth": 293,
+    "timeMonth": 294,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-02-19": 210,
+      "2026-02-19": 211,
       "2026-02-13": 247,
       "2026-02-12": 56,
       "2026-02-06": 25,
@@ -332,7 +332,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1034,
       "2025-10-12": 270,
-      "2025-10-11": 534
+      "2025-10-11": 523
     }
   },
   {
@@ -349,7 +349,7 @@
     "time": 600,
     "timeDay": 234,
     "timeWeek": 247,
-    "timeMonth": 540,
+    "timeMonth": 537,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-12-28": 88,
