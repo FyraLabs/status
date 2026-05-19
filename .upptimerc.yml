@@ -18,7 +18,9 @@ sites:
   - name: Weblate
     url: https://weblate.fyralabs.com
   - name: Terra Homepage
-    url: https://terra.fyralabs.com
+    url: https://terrapkg.com
+  - name: Terra Docs
+    url: https://docs.terrapkg.com
   - name: Package Repositories
     url: https://repos.fyralabs.com
   - name: Subatomic
