@@ -149,16 +149,16 @@
     "url": "https://weblate.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.fyralabs.com.ico",
     "slug": "weblate",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "88.04%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "99.65%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "90.20%",
+    "uptimeWeek": "86.65%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "99.62%",
     "time": 668,
-    "timeDay": 793,
-    "timeWeek": 532,
-    "timeMonth": 579,
+    "timeDay": 690,
+    "timeWeek": 530,
+    "timeMonth": 577,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2025-05-26": 36,
@@ -186,7 +186,7 @@
       "2026-05-18": 727,
       "2026-05-21": 106,
       "2026-05-22": 304,
-      "2026-05-24": 0
+      "2026-05-24": 141
     }
   },
   {
