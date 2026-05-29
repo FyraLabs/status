@@ -150,10 +150,10 @@
     "slug": "weblate",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "99.61%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "96.50%",
+    "uptimeYear": "99.59%",
     "time": 669,
     "timeDay": 413,
     "timeWeek": 571,
@@ -186,7 +186,7 @@
       "2026-05-22": 304,
       "2026-05-24": 141,
       "2026-05-25": 63,
-      "2026-05-29": 0
+      "2026-05-29": 122
     }
   },
   {
