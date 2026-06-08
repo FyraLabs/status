@@ -35,7 +35,7 @@
     "timeDay": 969,
     "timeWeek": 930,
     "timeMonth": 871,
-    "timeYear": 790,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2025-06-14": 29,
       "2025-07-02": 15,
@@ -87,7 +87,7 @@
     "timeDay": 834,
     "timeWeek": 909,
     "timeMonth": 904,
-    "timeYear": 936,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2025-06-12": 11,
       "2025-06-14": 23,
@@ -151,16 +151,16 @@
     "url": "https://weblate.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.fyralabs.com.ico",
     "slug": "weblate",
-    "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.28%",
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "86.52%",
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "99.26%",
     "time": 748,
-    "timeDay": 440,
-    "timeWeek": 2809,
-    "timeMonth": 1238,
+    "timeDay": 565,
+    "timeWeek": 2709,
+    "timeMonth": 1231,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2025-06-14": 11,
@@ -196,7 +196,7 @@
       "2026-06-04": 94,
       "2026-06-05": 341,
       "2026-06-06": 253,
-      "2026-06-08": 0
+      "2026-06-08": 85
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeDay": 174,
     "timeWeek": 181,
     "timeMonth": 173,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-11-18": 124,
       "2026-02-12": 70
@@ -253,7 +253,7 @@
     "timeDay": 553,
     "timeWeek": 588,
     "timeMonth": 525,
-    "timeYear": 639,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2025-06-14": 42,
       "2025-07-16": 57,
