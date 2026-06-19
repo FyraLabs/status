@@ -13,7 +13,7 @@
     "time": 227,
     "timeDay": 86,
     "timeWeek": 176,
-    "timeMonth": 144,
+    "timeMonth": 147,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-11-18": 228,
@@ -34,7 +34,7 @@
     "time": 653,
     "timeDay": 1046,
     "timeWeek": 945,
-    "timeMonth": 890,
+    "timeMonth": 915,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2025-07-02": 15,
@@ -64,7 +64,7 @@
     "time": 249,
     "timeDay": 100,
     "timeWeek": 128,
-    "timeMonth": 553,
+    "timeMonth": 568,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -85,7 +85,7 @@
     "time": 895,
     "timeDay": 1101,
     "timeWeek": 1021,
-    "timeMonth": 912,
+    "timeMonth": 936,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2025-06-20": 12,
@@ -148,17 +148,17 @@
     "url": "https://weblate.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.fyralabs.com.ico",
     "slug": "weblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "89.83%",
+    "uptimeDay": "89.82%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "93.59%",
     "uptimeYear": "99.20%",
     "time": 729,
-    "timeDay": 597,
-    "timeWeek": 752,
-    "timeMonth": 1307,
-    "timeYear": 785,
+    "timeDay": 496,
+    "timeWeek": 701,
+    "timeMonth": 1310,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2025-08-21": 93,
       "2025-08-31": 11,
@@ -212,7 +212,7 @@
     "time": 209,
     "timeDay": 92,
     "timeWeek": 148,
-    "timeMonth": 155,
+    "timeMonth": 157,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2025-11-18": 124,
@@ -233,7 +233,7 @@
     "time": 125,
     "timeDay": 64,
     "timeWeek": 107,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {}
   },
@@ -251,7 +251,7 @@
     "time": 622,
     "timeDay": 618,
     "timeWeek": 564,
-    "timeMonth": 532,
+    "timeMonth": 546,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2025-07-16": 57,
@@ -283,7 +283,7 @@
     "time": 429,
     "timeDay": 508,
     "timeWeek": 418,
-    "timeMonth": 394,
+    "timeMonth": 404,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-09-27": 25,
@@ -312,7 +312,7 @@
     "time": 520,
     "timeDay": 489,
     "timeWeek": 464,
-    "timeMonth": 396,
+    "timeMonth": 406,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2025-09-29": 33,
@@ -336,7 +336,7 @@
     "time": 409,
     "timeDay": 157,
     "timeWeek": 199,
-    "timeMonth": 204,
+    "timeMonth": 209,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-10-26": 34,
