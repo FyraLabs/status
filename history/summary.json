@@ -75,17 +75,17 @@
     "url": "https://wiki.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fyralabs.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.48%",
-    "time": 926,
-    "timeDay": 1213,
-    "timeWeek": 1217,
-    "timeMonth": 997,
-    "timeYear": 931,
+    "time": 925,
+    "timeDay": 814,
+    "timeWeek": 1102,
+    "timeMonth": 979,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2025-07-27": 17,
       "2025-08-01": 17,
@@ -137,7 +137,8 @@
       "2026-04-16": 181,
       "2026-06-01": 340,
       "2026-06-03": 298,
-      "2026-07-10": 65
+      "2026-07-10": 65,
+      "2026-07-23": 0
     }
   },
   {
