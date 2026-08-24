@@ -25,16 +25,16 @@
     "url": "https://blog.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.fyralabs.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.78%",
-    "time": 793,
-    "timeDay": 1085,
-    "timeWeek": 1070,
-    "timeMonth": 1654,
+    "time": 794,
+    "timeDay": 1076,
+    "timeWeek": 1068,
+    "timeMonth": 1640,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2025-10-09": 19,
@@ -51,7 +51,7 @@
       "2026-08-12": 39,
       "2026-08-22": 30,
       "2026-08-23": 80,
-      "2026-08-24": 48
+      "2026-08-24": 85
     }
   },
   {
