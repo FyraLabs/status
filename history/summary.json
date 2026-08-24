@@ -25,17 +25,17 @@
     "url": "https://blog.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.fyralabs.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.78%",
-    "time": 795,
-    "timeDay": 1015,
-    "timeWeek": 1049,
-    "timeMonth": 1620,
-    "timeYear": 946,
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.77%",
+    "time": 797,
+    "timeDay": 1029,
+    "timeWeek": 1052,
+    "timeMonth": 1609,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-10-09": 19,
       "2025-10-18": 16,
@@ -51,7 +51,7 @@
       "2026-08-12": 39,
       "2026-08-22": 30,
       "2026-08-23": 80,
-      "2026-08-24": 87
+      "2026-08-24": 134
     }
   },
   {
@@ -80,16 +80,16 @@
     "url": "https://wiki.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fyralabs.com.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.42%",
-    "time": 940,
-    "timeDay": 1331,
-    "timeWeek": 1039,
-    "timeMonth": 1004,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.41%",
+    "time": 941,
+    "timeDay": 1306,
+    "timeWeek": 1052,
+    "timeMonth": 1009,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2025-09-01": 12,
@@ -143,7 +143,7 @@
       "2026-08-01": 223,
       "2026-07-31": 0,
       "2026-08-23": 50,
-      "2026-08-24": 48
+      "2026-08-24": 96
     }
   },
   {
@@ -151,15 +151,15 @@
     "url": "https://weblate.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.fyralabs.com.ico",
     "slug": "weblate",
-    "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.08%",
-    "time": 818,
-    "timeDay": 681,
-    "timeWeek": 957,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "90.45%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.07%",
+    "time": 819,
+    "timeDay": 709,
+    "timeWeek": 951,
     "timeMonth": 876,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -199,7 +199,7 @@
       "2026-06-19": 590,
       "2026-06-18": 129,
       "2026-08-12": 39,
-      "2026-08-24": 90
+      "2026-08-24": 138
     }
   },
   {
@@ -246,16 +246,16 @@
     "url": "https://repos.fyralabs.com",
     "icon": "https://icons.duckduckgo.com/ip3/repos.fyralabs.com.ico",
     "slug": "package-repositories",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.83%",
     "time": 696,
-    "timeDay": 523,
-    "timeWeek": 489,
-    "timeMonth": 662,
+    "timeDay": 544,
+    "timeWeek": 501,
+    "timeMonth": 661,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2025-09-29": 34,
@@ -271,7 +271,7 @@
       "2026-03-25": 47,
       "2026-06-03": 289,
       "2026-07-09": 104,
-      "2026-08-24": 47
+      "2026-08-24": 94
     }
   },
   {
@@ -279,17 +279,17 @@
     "url": "https://subatomic.fyralabs.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/subatomic.fyralabs.com.ico",
     "slug": "subatomic",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.43%",
-    "time": 432,
-    "timeDay": 425,
-    "timeWeek": 400,
-    "timeMonth": 420,
-    "timeYear": 425,
+    "time": 434,
+    "timeDay": 671,
+    "timeWeek": 514,
+    "timeMonth": 455,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2025-09-27": 25,
       "2025-09-29": 24,
@@ -302,7 +302,7 @@
       "2026-03-18": 469,
       "2026-06-03": 284,
       "2026-08-23": 22,
-      "2026-08-24": 1
+      "2026-08-24": 48
     }
   },
   {
@@ -310,16 +310,16 @@
     "url": "https://madoguchi.fyralabs.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/madoguchi.fyralabs.com.ico",
     "slug": "madoguchi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.92%",
     "time": 514,
-    "timeDay": 689,
-    "timeWeek": 495,
-    "timeMonth": 450,
+    "timeDay": 662,
+    "timeWeek": 500,
+    "timeMonth": 453,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-09-29": 33,
@@ -328,7 +328,7 @@
       "2025-12-31": 13,
       "2026-06-03": 279,
       "2026-08-23": 21,
-      "2026-08-24": 0
+      "2026-08-24": 48
     }
   },
   {
