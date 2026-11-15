@@ -13,8 +13,6 @@ sites:
     url: https://blog.fyralabs.com
   - name: Devdocs
     url: https://developer.fyralabs.com
-  - name: Wiki
-    url: https://wiki.fyralabs.com
   - name: Weblate
     url: https://weblate.fyralabs.com
   - name: Terra Homepage
