@@ -189,16 +189,16 @@
     "url": "https://subatomic.fyralabs.com/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/subatomic.fyralabs.com.ico",
     "slug": "subatomic",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.38%",
-    "time": 399,
-    "timeDay": 0,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "15.25%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "99.16%",
+    "time": 398,
+    "timeDay": 129,
     "timeWeek": 132,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-03-20": 365,
@@ -210,7 +210,7 @@
       "2026-10-22": 281,
       "2026-11-03": 221,
       "2026-11-02": 88,
-      "2026-11-21": 64
+      "2026-11-21": 1220
     }
   },
   {
@@ -252,7 +252,7 @@
     "timeDay": 209,
     "timeWeek": 225,
     "timeMonth": 247,
-    "timeYear": 323,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-12-03": 10,
       "2025-12-28": 88
